@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;fondoa&apos; in &apos;tablero.Juego.GuiTablero.anyadeGrid(...)&apos; to &apos;panel&apos;&#x0D;&#x0A;- Original project: &apos;FlotaLocal&apos;&#x0D;&#x0A;- Original element: &apos;tablero.Juego.GuiTablero.anyadeGrid(int, int).fondoa&apos;&#x0D;&#x0A;- Renamed element: &apos;fondoa&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;fondoa&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;tablero{Juego.java[Juego[GuiTablero~anyadeGrid~I~I@fondoa!3718!3746!3725!3730!QJPanel;!0!false" name="panel" references="true" stamp="1569273073292" version="1.0"/>
+</session>

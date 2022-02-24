@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Juego.java&apos; to &apos;FlotaDistribuidaRMI/src/cliente&apos;&#x0D;&#x0A;- Original project: &apos;FlotaLocal&apos;&#x0D;&#x0A;- Destination element: &apos;FlotaDistribuidaRMI/src/cliente&apos;&#x0D;&#x0A;- Original element: &apos;tablero.Juego.java&apos;" description="Copy compilation unit" destination="=FlotaDistribuidaRMI/src&lt;cliente" element1="/src&lt;tablero{Juego.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1573037642440" units="1" version="1.0"/>
+</session>

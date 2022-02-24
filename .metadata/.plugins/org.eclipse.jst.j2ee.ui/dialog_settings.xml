@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="J2EE_EXPORT_OVERWRITE" value="false"/>
+	<item key="J2EE_EXPORT_SOURCE" value="true"/>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v9.0"/>
+	</list>
+	<list key="J2EE_IMPORT_null">
+		<item value="C:\Users\javie\Desktop\ficheros_pr5_flota\ficheros_pr5_flota\HundirFlota\com.flota.ws.war"/>
+		<item value="C:\Users\javie\Desktop\ficheros_pr5_flota\ficheros_pr5_flota\Agenda\AgendaWS.war"/>
+	</list>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\Users\javie\Desktop\FlotaServlet.war"/>
+		<item value="C:\Users\javie\Desktop\com.flota.ws.war"/>
+	</list>
+</section>
